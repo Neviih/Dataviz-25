@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Langitua';
-    src: url("./fonts/Ogg-Regular.ttf");
+    src: url("Ogg-Regular.ttf");
 }
 
 body {
@@ -118,7 +118,7 @@ audio {
     left: 0;
     width: 100%;
     height: 350px;
-    background-image: url('./images/nuages.png');
+    background-image: url('nuages.png');
     background-size: contain;
     background-repeat: repeat-x;
     opacity: 0.9;
